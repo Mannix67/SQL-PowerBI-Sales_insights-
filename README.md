@@ -44,3 +44,11 @@ Show total revenue in year 2020 in Chennai
 # Data Analysis Using Power BI
 Formula to create norm_amount column
      = Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)
+     
+Dax Query for Revenue :
+
+     Revenue = SUM('sales transactions'[sales_amount])
+     
+Dax Query for Sales QTY
+
+    Sales Qty = SUM('sales transactions'[sales_qty])
