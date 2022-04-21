@@ -1,5 +1,6 @@
 # SQL-PowerBI-Sales_insights-
 
+# Please click power bi file above to see final power bi dashboard 
 
 
 
