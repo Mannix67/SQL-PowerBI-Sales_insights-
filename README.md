@@ -1,6 +1,6 @@
 # SQL-PowerBI-Sales_insights-
 
-# Please click power bi file above to see final power bi dashboard 
+# Please click raw power bi file above to interact with final power bi dashboard. If this is not possible, i have attached screenshots down below.  
 
 
 
