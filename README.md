@@ -53,3 +53,13 @@ Dax Query for Revenue :
 Dax Query for Sales QTY
 
     Sales Qty = SUM('sales transactions'[sales_qty])
+
+
+
+# ----
+
+![Screenshot (259)](https://user-images.githubusercontent.com/84920516/166907942-3d9f52c9-3e7a-40a2-addb-667e35805ba8.png)
+
+![Screenshot (260)](https://user-images.githubusercontent.com/84920516/166907996-469df2e0-5456-4934-84a5-3e99a33b992f.png)
+
+![Screenshot (261)](https://user-images.githubusercontent.com/84920516/166908034-8fd19528-ee9a-4578-9662-6f2c66cb9d16.png)
